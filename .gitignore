@@ -400,3 +400,8 @@ FodyWeavers.xsd
 
 # Mac
 .DS_Store
+
+# Mokujin
+**/appsettings.json
+**/appsettings.Development.json
+Api/Mokujin.Api/appsettings.Development.json
